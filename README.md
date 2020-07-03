@@ -1,1 +1,1 @@
-# UCAS--assignment of machine learning course
+# UCAS--homework of machine learning course
